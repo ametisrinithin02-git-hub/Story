@@ -1,1 +1,2 @@
-This is chaopter 3 and started started doing git git hub
+This is the new commit i made.
+This is chaopter 3 and started started doing git git hub 
